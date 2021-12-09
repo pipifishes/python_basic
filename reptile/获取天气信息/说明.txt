@@ -1,0 +1,11 @@
+gaode_mapall_weather -.py
+是根据高德地图查询天气的一个API，其中url可控
+
+拼接url,
+转字典，
+list中某个值是字典格式，   list[0].get()
+get().get()
+
+
+weather2.py
+别人写的，其中url不可控

@@ -1,0 +1,38 @@
+﻿{
+	"brand": "ALAD000149",
+	"carType": "CC6490AY20A",
+	"dealerAddress": "郑州市中州大道与经北六路交叉口中福汽车城内一号展厅",
+	"dealerName": "河南瑞乾汽车销售有限公司",
+	"delayDay": "",
+	"delayDrivingMileage": "",
+	"drivingMileage": "5638",
+	"endDate": "",
+	"gPS": "113.7402344|34.7392426",
+	"lsh": "",
+	"maintenanceCode": "10001",
+	"maintenanceDay": "",
+	"maintenanceDetail": "",
+	"maintenanceMileage": "",
+	"startDate": "2021-07-01",
+	"timestamp": "2021-07-01 13:54:40.000",
+	"vin": "LGWFF6A72MH250328"
+}
+{
+	"brand": "ALAD000149",
+	"carType": "CC6490AY20A",
+	"dealerAddress": "眉山市东坡区眉山大道东创建国眉山汽车园区",
+	"dealerName": "眉山嘉航汽车销售服务有限公司",
+	"delayDay": "",
+	"delayDrivingMileage": "",
+	"drivingMileage": "124",
+	"endDate": "",
+	"gPS": "103.8171539|30.0819645",
+	"lsh": "",
+	"maintenanceCode": "10001",
+	"maintenanceDay": "",
+	"maintenanceDetail": "",
+	"maintenanceMileage": "",
+	"startDate": "2021-07-04",
+	"timestamp": "2021-07-04 11:57:01.000",
+	"vin": "LGWFF6A72MH250183"
+}

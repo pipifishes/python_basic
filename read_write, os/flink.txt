@@ -1,0 +1,28 @@
+﻿flink datahub在k8s集群master节点存放路径：
+/home/han.gao/flink-1.12/usrlib
+
+执行脚本
+sh uaes-data-hub-hive-session.sh
+
+
+flink在配置中心的路径：
+https://gitlab-iot.uaes.com/UAES_BAIC/greatwall/MICROSERVICE/multioem-cloud-config/blob/master/test/uaes-data-hub-hive.conf
+
+flink落盘原始数据存在路径
+ks3路径：engine-analysis>flink>raw_data>data
+
+
+GWM生产环境上线ETL和tsp的gitlab地址
+ETL
+https://gitlab-iot.uaes.com/platform_development/public_service/bigdata/uaes-etl/tree/master-3.4
+TSP
+https://gitlab-iot.uaes.com/platform_development/public_service/uaes-tsp-etl/tree/master-2.3
+
+
+P01之前车型（不含P01）etl和tsp在hadoop集群下路径：
+/opt/engine-analysis-etl/uaes-etl-3.4.0
+/opt/engine-analysis-etl/uaes-tsp-etl-2.3.0
+
+P01之后车型（含P01）etl和tsp在hadoop集群下路径：
+/opt/engine-analysis-etl/uaes-etl-second-3.4.0
+/opt/engine-analysis-etl/uaes-tsp-etl-second-2.3.0
